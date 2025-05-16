@@ -1,4 +1,4 @@
 package com.example.sample
 
-class SecondClass {
+class SecondClass() {
 }
